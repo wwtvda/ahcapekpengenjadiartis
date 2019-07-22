@@ -13,7 +13,7 @@ import CaroCard from './material/CaroCard';
 import Footer from './material/Footer';
 import Nav from './material/NaviBar';
 import c1 from './material/img/c1.jpg';
-import berita1 from './material/img/berita1.jpg';
+//import berita1 from './material/img/berita1.jpg';
 import berita11 from './material/img/berita11.jpg';
 import {MDBContainer} from 'mdbreact'
 
