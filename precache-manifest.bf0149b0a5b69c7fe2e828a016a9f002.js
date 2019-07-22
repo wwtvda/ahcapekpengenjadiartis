@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "668310ebaf34741732f200e0787d1203",
+    "revision": "f662eabe8ab0f1619658afffefbabf71",
     "url": "/flute/index.html"
   },
   {
-    "revision": "c1ae6eefb866e763d90c",
+    "revision": "3f720db1e894476a4357",
     "url": "/flute/static/css/2.0fd1b968.chunk.css"
   },
   {
-    "revision": "c52211b1b3b66ab45aef",
+    "revision": "6c7d12d86614129f4b04",
     "url": "/flute/static/css/main.2cae869f.chunk.css"
   },
   {
-    "revision": "c1ae6eefb866e763d90c",
-    "url": "/flute/static/js/2.c2292c56.chunk.js"
+    "revision": "3f720db1e894476a4357",
+    "url": "/flute/static/js/2.e65c6528.chunk.js"
   },
   {
-    "revision": "c52211b1b3b66ab45aef",
-    "url": "/flute/static/js/main.776396c8.chunk.js"
+    "revision": "6c7d12d86614129f4b04",
+    "url": "/flute/static/js/main.5ebae59d.chunk.js"
   },
   {
     "revision": "e80772fe428e2daa5058",
@@ -122,10 +122,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ef6a08cdc1154920165680a4edde771",
     "url": "/flute/static/media/arrow_right.8ef6a08c.svg"
-  },
-  {
-    "revision": "23728b77d85de5937db72772f1c6f702",
-    "url": "/flute/static/media/berita1.23728b77.jpg"
   },
   {
     "revision": "e144eb790708b91016a4cd697fca8f6b",
