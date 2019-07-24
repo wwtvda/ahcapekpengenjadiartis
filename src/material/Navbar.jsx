@@ -19,7 +19,7 @@ render() {
       	</MDBCol>
         <MDBNavbarBrand>
         <MDBCol md="3">
-          <h8>Pemerintah Daerah Istimewa Yogyakarta</h8>
+          <h6>Pemerintah Daerah Istimewa Yogyakarta</h6>
           <h4 className="white-text">BADAN KESATUAN BANGSA DAN POLITIK</h4> 
           </MDBCol>
         </MDBNavbarBrand>

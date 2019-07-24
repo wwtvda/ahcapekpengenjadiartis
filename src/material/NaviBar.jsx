@@ -16,7 +16,7 @@ render() {
     <MDBNavbar color="red darken-4" dark expand="md">
       <MDBNavbarToggler onClick={this.toggleCollapse} />
       <MDBCollapse id="navbarCollapse3" isOpen={this.state.isOpen} navbar>
-        <MDBNavbarNav center>
+        <MDBNavbarNav center="true">
           <MDBNavItem>
             <MDBNavLink to="/home"><strong>BERANDA</strong></MDBNavLink>
           </MDBNavItem>
