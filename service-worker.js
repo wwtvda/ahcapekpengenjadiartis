@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/flute/precache-manifest.9916324ac25bc42961323cf4b03aff6d.js"
+  "/flute/precache-manifest.8b71be23182480c34f702d2f9fb5dc16.js"
 );
 
 self.addEventListener('message', (event) => {
