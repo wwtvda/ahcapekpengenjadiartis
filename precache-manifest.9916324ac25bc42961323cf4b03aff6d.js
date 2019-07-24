@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f662eabe8ab0f1619658afffefbabf71",
+    "revision": "85db9b4b6cbf0a1ce82b295af5b1c45f",
     "url": "/flute/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flute/static/css/2.0fd1b968.chunk.css"
   },
   {
-    "revision": "6c7d12d86614129f4b04",
+    "revision": "73db4f0658d21d3c4682",
     "url": "/flute/static/css/main.2cae869f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flute/static/js/2.e65c6528.chunk.js"
   },
   {
-    "revision": "6c7d12d86614129f4b04",
-    "url": "/flute/static/js/main.5ebae59d.chunk.js"
+    "revision": "73db4f0658d21d3c4682",
+    "url": "/flute/static/js/main.5c1b310d.chunk.js"
   },
   {
     "revision": "e80772fe428e2daa5058",
